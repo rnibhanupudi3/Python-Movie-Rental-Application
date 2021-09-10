@@ -1,2 +1,3 @@
 # Movie-Rental-Application
-Python Movie Rental Application using OOP
+- Project from O'Reilly Learning "Python and PostgreSQL" course
+- Simple Python Movie Rental Application using OOP
